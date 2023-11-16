@@ -4,10 +4,11 @@ My name is Bhargav Parmar. I am a Java Developer/Backend Developer. I have worke
 
 - 🔭 I’m currently working on a application called BeatBonds (Personal Project), where you can invest in a artist (No real money).
 - 🌱 I’m currently learning system design and React as a front-end to develop my personal project.
-<!-- - 🤔 I’m looking a job as a Java Developer/Backend Developer and ready to relocate. -->
 - ⚡ Fun fact: I love wrist watches.
 - 📫 How to reach me: bhargavparmar7080@gmail.com
-  
+
+<!-- - 🤔 I’m looking a job as a Java Developer/Backend Developer and ready to relocate. -->
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
