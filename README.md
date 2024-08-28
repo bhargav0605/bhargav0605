@@ -6,6 +6,7 @@ My name is Bhargav Parmar. I am a Software Engineer with great DevOps experience
 - ⚡ Fun fact: I love wrist watches.
 - 📫 How to reach me: bhargavparmar7080@gmail.com
 - 📫 Professional Email: contact@bhargavparmar.dev
+- 📄 Checkout my blogs at: https://bhargavparmar.hashnode.dev/?source=top_nav_blog_home
 <!-- - 🌱 I’m currently learning system design and React as a front-end to develop my personal project. -->
 <!-- - 🔭 I’m currently working on a application called BeatBonds (Personal Project), where you can invest in a artist (No real money). -->
 <!-- - 🤔 I’m looking a job as a Java Developer/Backend Developer and ready to relocate. -->
