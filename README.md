@@ -5,6 +5,7 @@ My name is Bhargav Parmar. I am a Software Engineer with great DevOps experience
 - 🌱 I'm currently working as a DevOps Engineer at https://inferenz.ai maintaining and designing infrastructure using Terraform, AWS and snowflake.
 - ⚡ Fun fact: I love wrist watches.
 - 📫 How to reach me: bhargavparmar7080@gmail.com
+- 📫 x: https://x.com/b_parmar_dev
 - 📫 Professional Email: contact@bhargavparmar.dev
 - 📄 Checkout my blogs at: https://bhargavparmar.hashnode.dev/?source=top_nav_blog_home
 <!-- - 🌱 I’m currently learning system design and React as a front-end to develop my personal project. -->
