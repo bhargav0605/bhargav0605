@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bhargav Parmar. I am a Software Engineer with DevOps experience. I have worked on different techonologies including Kubernetes, Docker, ELK. Microservice, ReactJS and AWS services as well. In addition to that I was able to get "Certified Kubernetes Application Developer `(CKAD)`" certification and I was responsible for managing and deploying microservices on kubernetes environments.
+My name is Bhargav Parmar. I am a Software Engineer with DevOps experience. I have worked on different techonologies including Kubernetes, Docker, ELK. Microservice, ReactJS and AWS services as well. In addition to that I was able to get `Kubestronaut` badge and I was responsible for managing and deploying microservices on kubernetes environments.
 
 - 🌱 Currently exploring the DevOps galaxy as an engineer at Inferenz.ai, where I design and maintain scalable infrastructure using Terraform, AWS, and Snowflake. 🚀 On a mission to earn my stripes as a Kubestronaut, diving deep into solving interstellar challenges in the k8s universe! 🌌
 - ⚡ Fun fact: I love wrist watches.
