@@ -7,7 +7,7 @@ My name is Bhargav Parmar. I am a Software Engineer with DevOps experience. I ha
 - 📫 How to reach me: bhargavparmar7080@gmail.com
 - 📫 x: https://x.com/b_parmar_dev
 - 📫 Professional Email: contact@bhargavparmar.dev
-- 🌐 Website: bhargavparmar.dev
+- 🌐 Website: [bhargavparmar.dev](https://bhargavparmar.dev/)
 - 📄 Checkout my blogs at: https://bhargavparmar.hashnode.dev/?source=top_nav_blog_home
 <!-- - 🌱 I’m currently learning system design and React as a front-end to develop my personal project. -->
 <!-- - 🔭 I’m currently working on a application called BeatBonds (Personal Project), where you can invest in a artist (No real money). -->
