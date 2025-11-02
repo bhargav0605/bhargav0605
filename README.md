@@ -9,6 +9,7 @@ My name is Bhargav Parmar. I am a Software Engineer with DevOps experience. I ha
 - 📫 Professional Email: contact@bhargavparmar.dev
 - 🌐 Website: [bhargavparmar.dev](https://bhargavparmar.dev/)
 - 📄 Checkout my blogs at: https://bhargavparmar.hashnode.dev/?source=top_nav_blog_home
+- 🕹️ Checkout my project Gist: [Snake Rush - What is it?](http://snake-rush-doc.bhargavparmar.dev/)
 <!-- - 🌱 I’m currently learning system design and React as a front-end to develop my personal project. -->
 <!-- - 🔭 I’m currently working on a application called BeatBonds (Personal Project), where you can invest in a artist (No real money). -->
 <!-- - 🤔 I’m looking a job as a Java Developer/Backend Developer and ready to relocate. -->
